@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 115" fill="none">
+  <!-- Sombra -->
+  <defs>
+    <filter id="sh" x="-10%" y="-5%" width="130%" height="130%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2.5" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Escudo – forma heráldica -->
+  <path d="M50 112 C14 92 7 56 7 22 C7 14 13 9 21 9 L79 9 C87 9 93 14 93 22 C93 56 86 92 50 112 Z"
+        fill="#002147" filter="url(#sh)"/>
+
+  <!-- Borde interior decorativo -->
+  <path d="M50 103 C21 86 15 54 15 26 L50 17 L85 26 C85 54 79 86 50 103 Z"
+        fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.2"/>
+
+  <!-- Círculo solar -->
+  <circle cx="50" cy="44" r="10.5" fill="white" opacity="0.95"/>
+
+  <!-- Rayos del sol (8 rayos) -->
+  <g stroke="white" stroke-width="2.2" stroke-linecap="round" opacity="0.8">
+    <line x1="50" y1="27" x2="50" y2="23"/>
+    <line x1="62" y1="31" x2="65" y2="28"/>
+    <line x1="68" y1="44" x2="72" y2="44"/>
+    <line x1="62" y1="57" x2="65" y2="60"/>
+    <line x1="50" y1="61" x2="50" y2="65"/>
+    <line x1="38" y1="57" x2="35" y2="60"/>
+    <line x1="32" y1="44" x2="28" y2="44"/>
+    <line x1="38" y1="31" x2="35" y2="28"/>
+  </g>
+
+  <!-- Tallo de la planta -->
+  <line x1="50" y1="96" x2="50" y2="68" stroke="white" stroke-width="2.8" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- Rama izquierda inferior -->
+  <path d="M50 86 C41 82 35 76 33 70" stroke="white" stroke-width="2.1" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Rama derecha inferior -->
+  <path d="M50 86 C59 82 65 76 67 70" stroke="white" stroke-width="2.1" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Rama izquierda media -->
+  <path d="M50 79 C43 74 39 68 38 63" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Rama derecha media -->
+  <path d="M50 79 C57 74 61 68 62 63" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Brote izquierdo superior -->
+  <path d="M50 71 C45 66 44 61 46 57" stroke="white" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.85"/>
+  <!-- Brote derecho superior -->
+  <path d="M50 71 C55 66 56 61 54 57" stroke="white" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Hojas (círculos en extremos de ramas) -->
+  <circle cx="33" cy="70" r="3.8" fill="white" opacity="0.88"/>
+  <circle cx="67" cy="70" r="3.8" fill="white" opacity="0.88"/>
+  <circle cx="38" cy="63" r="3.2" fill="white" opacity="0.88"/>
+  <circle cx="62" cy="63" r="3.2" fill="white" opacity="0.88"/>
+  <circle cx="46" cy="57" r="2.7" fill="white" opacity="0.88"/>
+  <circle cx="54" cy="57" r="2.7" fill="white" opacity="0.88"/>
+  <circle cx="50" cy="71" r="2.5" fill="white" opacity="0.85"/>
+</svg>

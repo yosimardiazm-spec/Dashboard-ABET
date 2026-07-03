@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.env
+
+# Datos con información personal de estudiantes — NUNCA subir
+public/data.json
+

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon-chart.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard ABET – Ingeniería Industrial</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <div id="js-error" style="display:none;padding:32px;background:#fef2f2;font-family:sans-serif;border-left:4px solid #dc2626;margin:20px">
+      <strong style="color:#991b1b">Error JavaScript:</strong>
+      <pre id="js-error-msg" style="margin-top:8px;font-size:13px;white-space:pre-wrap;color:#7f1d1d"></pre>
+    </div>
+    <script>
+      window.onerror = function(msg, src, line, col, err) {
+        var el = document.getElementById('js-error');
+        var msg_el = document.getElementById('js-error-msg');
+        if (el && msg_el) {
+          el.style.display = 'block';
+          msg_el.textContent = msg + '\n' + (src||'') + ' línea ' + line + '\n' + (err&&err.stack||'');
+        }
+      };
+      window.addEventListener('unhandledrejection', function(e) {
+        var el = document.getElementById('js-error');
+        var msg_el = document.getElementById('js-error-msg');
+        if (el && msg_el) {
+          el.style.display = 'block';
+          msg_el.textContent = 'Promise rechazada:\n' + (e.reason&&e.reason.stack || e.reason || 'sin detalle');
+        }
+      });
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
