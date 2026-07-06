@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-05T18:59:15",
+  "generado": "2026-07-05T19:30:10",
   "años": [
     2025,
     2026
@@ -1348,12 +1348,12 @@
       "pi_descripcion": "Realiza presentaciones claras usando vocabulario apropiado para la audiencia",
       "total_estudiantes": 22,
       "n_nivel_1": 0,
-      "n_nivel_2": 6,
-      "n_nivel_3": 5,
+      "n_nivel_2": 3,
+      "n_nivel_3": 8,
       "n_nivel_4": 11,
-      "pct_cumple": 0.7273,
-      "promedio_nivel": 3.23,
-      "accion_mejora": true
+      "pct_cumple": 0.8636,
+      "promedio_nivel": 3.36,
+      "accion_mejora": false
     },
     {
       "año": 2026,
@@ -1366,12 +1366,12 @@
       "pi_descripcion": "Escribe documentos en español usando lenguaje técnico apropiado, expresando claramente sus ideas",
       "total_estudiantes": 22,
       "n_nivel_1": 0,
-      "n_nivel_2": 6,
-      "n_nivel_3": 5,
+      "n_nivel_2": 3,
+      "n_nivel_3": 8,
       "n_nivel_4": 11,
-      "pct_cumple": 0.7273,
-      "promedio_nivel": 3.23,
-      "accion_mejora": true
+      "pct_cumple": 0.8636,
+      "promedio_nivel": 3.36,
+      "accion_mejora": false
     },
     {
       "año": 2026,
@@ -1384,12 +1384,12 @@
       "pi_descripcion": "Identifica y analiza los impactos generados por las soluciones de ingeniería en los proyectos de una empresa",
       "total_estudiantes": 22,
       "n_nivel_1": 0,
-      "n_nivel_2": 6,
-      "n_nivel_3": 5,
+      "n_nivel_2": 3,
+      "n_nivel_3": 8,
       "n_nivel_4": 11,
-      "pct_cumple": 0.7273,
-      "promedio_nivel": 3.23,
-      "accion_mejora": true
+      "pct_cumple": 0.8636,
+      "promedio_nivel": 3.36,
+      "accion_mejora": false
     },
     {
       "año": 2026,
@@ -1402,12 +1402,12 @@
       "pi_descripcion": "SO4.PI_3 (No existe en el informe): Incorpora normas de ingeniería adecuadas en el proceso de diseño",
       "total_estudiantes": 22,
       "n_nivel_1": 0,
-      "n_nivel_2": 6,
-      "n_nivel_3": 5,
+      "n_nivel_2": 3,
+      "n_nivel_3": 8,
       "n_nivel_4": 11,
-      "pct_cumple": 0.7273,
-      "promedio_nivel": 3.23,
-      "accion_mejora": true
+      "pct_cumple": 0.8636,
+      "promedio_nivel": 3.36,
+      "accion_mejora": false
     },
     {
       "año": 2026,
