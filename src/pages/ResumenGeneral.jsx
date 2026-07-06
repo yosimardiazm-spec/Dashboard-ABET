@@ -187,7 +187,10 @@ export default function ResumenGeneral() {
             <Tooltip content={<SemaforoTooltip />} cursor={{ fill: '#f8fafc' }}/>
             <ReferenceLine x={75} stroke="#1f4e79" strokeDasharray="4 3" strokeWidth={1.5}
               label={{ value: '75%', position: 'insideTopRight', fontSize: 10, fill: '#1f4e79', dy: -4 }}/>
-            <Bar dataKey="pct" radius={[0, 6, 6, 0]} maxBarSize={28}>
+            <Bar
+              dataKey="pct" radius={[0, 6, 6, 0]} maxBarSize={28}
+              label={{ position: 'right', formatter: v => `${v}%`, fontSize: 11, fill: '#374151' }}
+            >
               {semaforoData.map((d, i) => (
                 <Cell key={i} fill={pctColor(d.pct / 100)}/>
               ))}
