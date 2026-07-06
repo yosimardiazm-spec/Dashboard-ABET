@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-02T18:19:49",
+  "generado": "2026-07-05T18:59:15",
   "años": [
     2025,
     2026
@@ -8,7 +8,7 @@
     {
       "año": 2025,
       "asignatura": "Analítica de datos",
-      "profesor": "Adrian Santana",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -26,7 +26,7 @@
     {
       "año": 2025,
       "asignatura": "Analítica de datos",
-      "profesor": "Adrian Santana",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -44,7 +44,7 @@
     {
       "año": 2025,
       "asignatura": "Analítica de datos",
-      "profesor": "Adrian Santana",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -62,7 +62,7 @@
     {
       "año": 2025,
       "asignatura": "Analítica de datos",
-      "profesor": "Adrian Santana",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -278,7 +278,7 @@
     {
       "año": 2025,
       "asignatura": "Fundamentos de Logística",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO7",
       "so_descripcion": "Aprendizaje autónomo",
       "tipo_medicion": "Sumativa",
@@ -296,7 +296,7 @@
     {
       "año": 2025,
       "asignatura": "Ingeniería de métodos",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -314,7 +314,7 @@
     {
       "año": 2025,
       "asignatura": "Ingeniería de métodos",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -332,7 +332,7 @@
     {
       "año": 2025,
       "asignatura": "Ingeniería de métodos",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -350,7 +350,7 @@
     {
       "año": 2025,
       "asignatura": "Proyecto en Analítica Aplicada",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Sumativa",
@@ -368,7 +368,7 @@
     {
       "año": 2025,
       "asignatura": "Proyecto en Analítica Aplicada",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Sumativa",
@@ -386,7 +386,7 @@
     {
       "año": 2025,
       "asignatura": "Proyecto en Analítica Aplicada",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Sumativa",
@@ -404,7 +404,7 @@
     {
       "año": 2025,
       "asignatura": "Proyecto en Analítica Aplicada",
-      "profesor": "Andrés Cardona",
+      "profesor": "Andrés Felipe Cardona Ortegón",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Sumativa",
@@ -638,7 +638,7 @@
     {
       "año": 2025,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO1",
       "so_descripcion": "Resolución de problemas complejos de ingeniería",
       "tipo_medicion": "Sumativa",
@@ -656,7 +656,7 @@
     {
       "año": 2025,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Sumativa",
@@ -674,7 +674,7 @@
     {
       "año": 2025,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Sumativa",
@@ -746,7 +746,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Formativa",
@@ -764,7 +764,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Formativa",
@@ -782,7 +782,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO3",
       "so_descripcion": "Comunicación",
       "tipo_medicion": "Formativa",
@@ -800,7 +800,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO3",
       "so_descripcion": "Comunicación",
       "tipo_medicion": "Formativa",
@@ -818,7 +818,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO4",
       "so_descripcion": "Ética y responsabilidad profesional",
       "tipo_medicion": "Formativa",
@@ -836,7 +836,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO4",
       "so_descripcion": "Ética y responsabilidad profesional",
       "tipo_medicion": "Formativa",
@@ -854,7 +854,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Estrategias de Mejora",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Sumativa",
@@ -872,7 +872,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Estrategias de Mejora",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Sumativa",
@@ -890,7 +890,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Estrategias de Mejora",
-      "profesor": "Luis Mauricio Agudelo",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO4",
       "so_descripcion": "Ética y responsabilidad profesional",
       "tipo_medicion": "Sumativa",
@@ -907,8 +907,8 @@
     },
     {
       "año": 2025,
-      "asignatura": "Práctica en Estrategias de mejora",
-      "profesor": "Luis Mauricio Agudelo",
+      "asignatura": "Práctica en Estrategias de Mejora",
+      "profesor": "Luis Mauricio Agudelo Otálora",
       "so": "SO7",
       "so_descripcion": "Aprendizaje autónomo",
       "tipo_medicion": "Sumativa",
@@ -1016,7 +1016,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Formativa",
@@ -1034,7 +1034,7 @@
     {
       "año": 2025,
       "asignatura": "Experiencia Centrada en Diseño",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO2",
       "so_descripcion": "Diseño de ingeniería",
       "tipo_medicion": "Formativa",
@@ -1052,7 +1052,7 @@
     {
       "año": 2025,
       "asignatura": "Optimización y Analítica",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO1",
       "so_descripcion": "Resolución de problemas complejos de ingeniería",
       "tipo_medicion": "Sumativa",
@@ -1070,7 +1070,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Diagnóstico de Procesos",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO3",
       "so_descripcion": "Comunicación",
       "tipo_medicion": "Formativa",
@@ -1088,7 +1088,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Diagnóstico de Procesos",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO3",
       "so_descripcion": "Comunicación",
       "tipo_medicion": "Formativa",
@@ -1106,7 +1106,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Diagnóstico de Procesos",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -1124,7 +1124,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Diagnóstico de Procesos",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -1142,7 +1142,7 @@
     {
       "año": 2025,
       "asignatura": "Práctica en Diagnóstico de Procesos",
-      "profesor": "Yosimar Díaz",
+      "profesor": "Yosimar Díaz Monterroza",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Formativa",
@@ -1160,7 +1160,7 @@
     {
       "año": 2026,
       "asignatura": "Analítica de datos",
-      "profesor": "Santana Alfonso Adrian Alberto",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -1178,7 +1178,7 @@
     {
       "año": 2026,
       "asignatura": "Analítica de datos",
-      "profesor": "Santana Alfonso Adrian Alberto",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -1196,7 +1196,7 @@
     {
       "año": 2026,
       "asignatura": "Analítica de datos",
-      "profesor": "Santana Alfonso Adrian Alberto",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -1214,7 +1214,7 @@
     {
       "año": 2026,
       "asignatura": "Analítica de datos",
-      "profesor": "Santana Alfonso Adrian Alberto",
+      "profesor": "Adrian Alberto Santana Alfonso",
       "so": "SO6",
       "so_descripcion": "Análisis de datos experimentales",
       "tipo_medicion": "Formativa",
@@ -1303,8 +1303,116 @@
     },
     {
       "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO2",
+      "so_descripcion": "Diseño de ingeniería",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO2.PI_1",
+      "pi_descripcion": "Diseña una solución que satisface los requerimientos del cliente y la organización",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 1,
+      "n_nivel_3": 10,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.9545,
+      "promedio_nivel": 3.45,
+      "accion_mejora": false
+    },
+    {
+      "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO2",
+      "so_descripcion": "Diseño de ingeniería",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO2.PI_7",
+      "pi_descripcion": "Identifica los requerimientos de diseño que satisfacen las necesidades del cliente y la organización",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 1,
+      "n_nivel_3": 10,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.9545,
+      "promedio_nivel": 3.45,
+      "accion_mejora": false
+    },
+    {
+      "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO3",
+      "so_descripcion": "Comunicación",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO3.PI_1",
+      "pi_descripcion": "Realiza presentaciones claras usando vocabulario apropiado para la audiencia",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 6,
+      "n_nivel_3": 5,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.7273,
+      "promedio_nivel": 3.23,
+      "accion_mejora": true
+    },
+    {
+      "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO3",
+      "so_descripcion": "Comunicación",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO3.PI_2",
+      "pi_descripcion": "Escribe documentos en español usando lenguaje técnico apropiado, expresando claramente sus ideas",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 6,
+      "n_nivel_3": 5,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.7273,
+      "promedio_nivel": 3.23,
+      "accion_mejora": true
+    },
+    {
+      "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO4",
+      "so_descripcion": "Ética y responsabilidad profesional",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO4.PI_1",
+      "pi_descripcion": "Identifica y analiza los impactos generados por las soluciones de ingeniería en los proyectos de una empresa",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 6,
+      "n_nivel_3": 5,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.7273,
+      "promedio_nivel": 3.23,
+      "accion_mejora": true
+    },
+    {
+      "año": 2026,
+      "asignatura": "Experiencia Centrada en Diseño",
+      "profesor": "Yosimar Díaz Monterroza",
+      "so": "SO4",
+      "so_descripcion": "Ética y responsabilidad profesional",
+      "tipo_medicion": "Sumativa",
+      "pi_codigo": "SO4.PI_3",
+      "pi_descripcion": "SO4.PI_3 (No existe en el informe): Incorpora normas de ingeniería adecuadas en el proceso de diseño",
+      "total_estudiantes": 22,
+      "n_nivel_1": 0,
+      "n_nivel_2": 6,
+      "n_nivel_3": 5,
+      "n_nivel_4": 11,
+      "pct_cumple": 0.7273,
+      "promedio_nivel": 3.23,
+      "accion_mejora": true
+    },
+    {
+      "año": 2026,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO1",
       "so_descripcion": "Resolución de problemas complejos de ingeniería",
       "tipo_medicion": "Sumativa",
@@ -1322,7 +1430,7 @@
     {
       "año": 2026,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Sumativa",
@@ -1340,7 +1448,7 @@
     {
       "año": 2026,
       "asignatura": "Gestión de la calidad",
-      "profesor": "Luis Alfredo Paipa",
+      "profesor": "Luis Alfredo Paipa Galeano",
       "so": "SO5",
       "so_descripcion": "Trabajo en equipo",
       "tipo_medicion": "Sumativa",
